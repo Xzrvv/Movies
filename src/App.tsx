@@ -150,3 +150,5 @@ const styles = StyleSheet.create({
     borderRadius: 10 
   } 
 });
+
+// Burda Cavid olub
